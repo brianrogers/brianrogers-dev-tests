@@ -1,0 +1,13 @@
+{
+  "name": "brianrogers-dev-tests",
+  "version": "1.0.0",
+  "description": "e2e tests for the brianrogers.dev site.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.31.2"
+  }
+}
